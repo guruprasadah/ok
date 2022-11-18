@@ -1,6 +1,5 @@
 IDENTIFICATION DIVISION.
 PROGRAM-ID. OK.
-* simple hello world program
 PROCEDURE DIVISION.
     DISPLAY 'ok'.
     STOP RUN.
